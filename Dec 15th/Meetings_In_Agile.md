@@ -10,7 +10,6 @@ The four key ceremonies in Agile are:
 - Daily Standup (or Daily Scrum)  
 - Sprint Review  
 - Sprint Retrospective  
----
 
 ## 1. Sprint Planning
 This ceremony occurs at the beginning of each sprint, which is typically a two-to-four-week time frame. The goal is to plan and agree on the work that the team will complete during the sprint. The Product Owner presents the highest-priority items from the product backlog, and the team discusses and estimates the effort required to complete each item. The team then commits to completing a set of tasks, creating a sprint backlog.
