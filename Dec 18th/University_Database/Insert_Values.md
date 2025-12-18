@@ -1,3 +1,6 @@
+## Insert Data into Students Table
+
+```sql
 INSERT INTO Students (FirstName, LastName, Email, DateOfBirth)
 VALUES
 ('Pawan', 'Kumar', 'pawan@gmail.com', '2003-08-19'),
@@ -5,3 +8,4 @@ VALUES
 ('Rahul', 'Kumar', 'rahul@uni.com', '1999-05-19');
 
 SELECT * FROM Students;
+```
