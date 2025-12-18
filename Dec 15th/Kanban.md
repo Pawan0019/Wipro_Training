@@ -15,36 +15,35 @@ The primary aim of Kanban is to identify potential bottlenecks in your process a
 Kanban is a visual workflow management method used to manage, track, and improve work processes by making work visible and limiting how much work is done at a time.
 
 It originated in Toyota’s manufacturing system and is now widely used in software development, IT operations, and project management.
+
 ![Kanban Board](images/Kanban_Board.png)
 ---
 
 ## Key Kanban Practices and Concepts
+
 Kanban is immensely helpful because it is extremely flexible, but there are some key Kanban practices and concepts that guide successful implementation.
----
 
 ### Visualize Work
 By creating a visual model of your work and process, you can observe the flow of work moving through the Kanban system. Making work visible, along with visual indications of blockers, bottlenecks, and queues, leads to increased communication and collaboration.
 
 This helps teams understand how fast work moves through the system and where to focus efforts to improve flow.
----
 
 ### Limit Work-in-Process
 By limiting how much unfinished work is in process, you can reduce the time it takes an item to travel through the Kanban system.
 
 This helps avoid problems caused by task switching and reduces the need for constant reprioritization. Work-in-process (WIP) limits enable teams to deliver quality work faster in a sustainable manner.
----
 
 ### Focus on Flow
 Using WIP limits and team-driven policies, Kanban systems help to:
 - Improve the flow of work
 - Collect metrics to analyze flow
 - Identify early indicators of potential problems
----
 
 ### Continuous Improvement
 Once a Kanban system is in place, it becomes the foundation for continuous improvement. Teams track metrics such as flow, quality, throughput, and lead time.
 
 Experiments and analysis are used to improve system effectiveness. Continuous improvement helps streamline workflows and save time and cost.
+
 ---
 
 ## Key Components of Kanban
@@ -75,7 +74,9 @@ Only 3 tasks can be in *In Progress* at a time.
 ---
 
 ### 4. Continuous Flow
+
 Work is pulled into the next stage only when capacity is available, ensuring a smooth and steady flow instead of batch-based work.
+
 ---
 
 ## Kanban Workflow
