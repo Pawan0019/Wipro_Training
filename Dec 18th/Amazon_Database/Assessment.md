@@ -11,6 +11,7 @@ CREATE TABLE Product (
     ExpDate DATE,
     Price INT
 );
+
 INSERT INTO Product (Name, Brand, ManuDate, ExpDate, Price)
 VALUES
 ('Bread', 'Britannia', '2025-08-12', '2025-10-12', 45),
@@ -23,12 +24,18 @@ VALUES
 ('Toothpaste', 'Colgate', '2025-01-12', '2027-01-12', 130),
 ('Water', 'Bisleri', '2025-08-21', '2027-03-30', 20),
 ('Oats', 'Kellogg', '2025-01-22', '2026-10-21', 300);
+
 SELECT * FROM Product;
+
+--Update
 UPDATE Product 
 SET ManuDate = '2025-06-24' 
 WHERE Name = 'Oil';
+
+--Delete
 SELECT * FROM Product;
 DELETE FROM Product 
 WHERE Price = 14;
+
 SELECT * FROM Product;
 ```
