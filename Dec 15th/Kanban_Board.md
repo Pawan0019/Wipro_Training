@@ -110,37 +110,56 @@ Work on tasks starting with the ones at the top. When a task is ready to be move
 
 ### Step 5: Improve the flow of work
 Kanban is all about maintaining a high and consistent flow of work. With your board, you should be able to see the overview of work status and instantly identify any problems or bottlenecks. No work item should lag behind, and columns should not be overloaded with tasks. The most straightforward technique to ensure consistent flow is limiting work in progress.
+
 ---
 
 ## Types of Kanban Boards
+
+---
+
 ### Physical Kanban Board
+
 Created on a whiteboard or corkboard using sticky notes or cards. Offers a tangible and collaborative experience.
+
 ---
 
 ### Digital Kanban Board
+
 Uses software tools such as Trello, Jira, or Kanbanize. Digital boards allow remote access and advanced analytics.
+
 ---
 
 ## Benefits of using a Kanban Board
+
+---
+
 ### Visual Clarity
+
 Provides a clear visual representation of work status and promotes transparency.
+
 ---
 
 ### Flexibility
+
 Adapts easily to changes in priorities and workflows.
+
 ---
 
 ### Efficiency
+
 WIP limits prevent overload and help maintain steady progress.
+
 ---
 
 ### Continuous Improvement
+
 Encourages regular review and optimization of workflows.
+
 ---
 
 ## Example of Kanban Board
 
-![Example Kanban Board](https://media.geeksforgeeks.org/wp-content/uploads/20240208182152/Example-of-Kanban-Board.webp)
+![Example Kanban Board](images/kanban-board-example.png)
 
 Consider a software development Kanban Board with columns like:
 
