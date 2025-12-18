@@ -1,4 +1,9 @@
-INSERT INTO Departments VALUES
+## Insert Data into Departments and Employees
+
+### Insert Departments
+
+```sql
+INSERT INTO Departments VALUES 
 (1, 'Engineering'),
 (2, 'HR'),
 (3, 'Finance');
@@ -8,3 +13,4 @@ INSERT INTO Employees VALUES
 (102, 'Neha', 2),
 (103, 'Rahul', NULL),
 (104, 'Sonal', 99);
+```
