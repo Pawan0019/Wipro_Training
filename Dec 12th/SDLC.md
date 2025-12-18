@@ -164,7 +164,7 @@ The software is released to end users. In modern systems, deployment is often au
 - DevOps Engineers  
 - Release Managers  
 
-![Phase 3 Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20231218094709/6.jpg)
+![Phase 6 Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20231218094709/6.jpg)
 ---
 
 ## Stage 7: Maintenance

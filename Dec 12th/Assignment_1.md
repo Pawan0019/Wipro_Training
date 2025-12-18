@@ -12,10 +12,11 @@ The SDLC is a structured approach used to develop high-quality software through 
 
 Each phase depends on the previous one, forming a continuous and interconnected workflow that ensures accuracy, efficiency, and customer satisfaction.
 
+![SDLC Diagram](images/SDLC.png)
 ---
 
 ## 1️⃣ Requirements Phase – Understanding the Problem
-
+![Phase 1 Diagram](images/Phase1.png)
 This is the starting point of the SDLC and the most critical phase.
 
 ### What Happens Here?
@@ -34,7 +35,7 @@ This is the starting point of the SDLC and the most critical phase.
 ---
 
 ## 2️⃣ Design Phase – Planning the Solution
-
+![Phase 2 Diagram](images/Phase2.png)
 ### What Happens Here?
 
 - Convert requirements into a technical blueprint.
@@ -56,7 +57,7 @@ This is the starting point of the SDLC and the most critical phase.
 ---
 
 ## 3️⃣ Implementation Phase – Building the System
-
+![Phase 3 Diagram](images/Phase3.png)
 ### What Happens Here?
 
 - Developers write code according to the design.
@@ -73,7 +74,7 @@ This is the starting point of the SDLC and the most critical phase.
 ---
 
 ## 4️⃣ Testing Phase – Ensuring Quality and Accuracy
-
+![Phase 4 Diagram](images/Phase4.png)
 ### What Happens Here?
 
 - Testers execute various tests to find bugs, errors, and vulnerabilities.
@@ -94,7 +95,7 @@ Testing includes:
 ---
 
 ## 5️⃣ Deployment Phase – Delivering the Product
-
+![Phase 5 Diagram](images/Phase5.png)
 ### What Happens Here?
 
 - Software is installed or released to end users.
