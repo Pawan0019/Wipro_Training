@@ -1,4 +1,5 @@
 # Meetings in Agile Methodology
+
 Agile meetings, also called Scrum ceremonies, are an essential part of the Agile framework, an iterative approach to project management. In this framework, team members deliver products incrementally, after brief periods or sprints, rather than all at once. Agile meetings occur at key points throughout a sprint cycle and allow the development team to announce progress updates, plan tasks, discuss client feedback and share other important project information. Though the Agile method originated in the software development industry, its guidelines can help teams in many fields complete projects efficiently.
 ---
 
