@@ -1,0 +1,16 @@
+## Departments and Employees Tables
+
+### Create Departments Table
+
+```sql
+CREATE TABLE Departments (
+    DeptID INT PRIMARY KEY,
+    DeptName VARCHAR(50)
+);
+
+CREATE TABLE Employees (
+    EmpID INT PRIMARY KEY,
+    EmpName VARCHAR(50),
+    DeptID INT NULL
+);
+```
