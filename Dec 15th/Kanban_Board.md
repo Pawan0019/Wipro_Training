@@ -29,6 +29,7 @@ Each column signifies a specific phase that a task or work item goes through. Co
 
 **Purpose:**  
 Columns provide a structured visual representation of the work stages, allowing team members to quickly understand where tasks are in the process.
+
 ---
 
 ### Task Cards
@@ -41,6 +42,7 @@ Each task card contains information about a particular task, including a brief d
 
 **Purpose:**  
 Task cards make the work tangible and provide a concise overview of the tasks being managed. They move across columns as tasks progress through the workflow.
+
 ---
 
 ### Work in Progress (WIP) Limits
@@ -53,6 +55,7 @@ WIP limits prevent work overload in specific stages of the workflow, promoting a
 
 **Purpose:**  
 By limiting the number of tasks in progress, teams can maintain focus, identify bottlenecks, and optimize the flow of work.
+
 ---
 
 ### Swimlanes
@@ -66,6 +69,7 @@ Purpose:
 
 **Purpose:**  
 Swimlanes help teams prioritize tasks, allocate work to specific team members, or distinguish between different types of work within the same board.
+
 ---
 
 ### Labels or Color Coding
@@ -78,6 +82,7 @@ Different colors or labels can represent task types, priority levels, or any cus
 
 **Purpose:**  
 Labels enhance visual clarity and help teams quickly identify and understand task characteristics or priorities.
+
 ---
 
 ### Cumulative Flow Diagram (CFD)
@@ -90,6 +95,7 @@ It shows the number of tasks in each column at various points, helping teams ana
 
 **Purpose:**  
 CFDs provide valuable insights into workflow efficiency, allowing teams to identify areas for improvement and make data-driven decisions.
+
 ---
 
 ### Blocked or Impediment Indicators
@@ -102,6 +108,7 @@ Blocked indicators draw attention to tasks that are stuck or facing challenges, 
 
 **Purpose:**  
 Identifying and resolving impediments promptly is crucial for maintaining a smooth and efficient workflow.
+
 ---
 
 ## How does a Kanban Board work?
@@ -117,29 +124,35 @@ Different card colors represent different types of work. Swimlanes organize team
 
 To create a Kanban Board, get a whiteboard, then break down the flow of work from the moment you start it to when it's finished into distinctive steps and draw a column for each.
 ![step1](https://static.kanbantool.com/kanban-board/kt-kanban-board-howto-1-visualize-workflow.png)
+
 ---
 
 ### Step 2: Identify the types of work you do
 
 Decide what kinds of work items you are usually working on. These may be, for example, customer orders, support requests, or maintenance tasks. Assign a distinctive color to each of them, and get a bunch of sticky notes in these colors.
 ![Step2](https://static.kanbantool.com/kanban-board/kt-kanban-board-howto-2-identify-types-of-work.png)
+
 ---
 
 ### Step 3: Write down tasks on cards and place them on the board
 
 Write down each thing you are working on on a separate color-coded sticky note, and put it onto the board into the respective column. The order of cards in each column should represent their relative priority, with the most urgent ones at the top.
 ![Step3](https://static.kanbantool.com/kanban-board/kt-kanban-board-howto-3-put-tasks-on-board.png)
+
 ---
 
 ### Step 4: Start working with your Kanban board
 
 Work on tasks starting with the ones at the top. When a task is ready to be moved to the next column, place it at its bottom. Such a method of working will help to maintain a high flow of work on your board.
+
 ![Step4](https://static.kanbantool.com/kanban-board/kt-kanban-board-howto-4-kanban-workflow.png)
+
 ---
 
 ### Step 5: Improve the flow of work
 
 Kanban is all about maintaining a high and consistent flow of work. With your board, you should be able to see the overview of work status and instantly identify any problems or bottlenecks. No work item should lag behind, and columns should not be overloaded with tasks. The most straightforward technique to ensure consistent flow is limiting work in progress.
+
 ---
 
 ## Types of Kanban Boards
@@ -186,7 +199,7 @@ Encourages regular reviews and discussions to identify areas for improvement and
 
 ## Example of Kanban Board
 
-![Example Kanban Board](images/kanban-board-example.png)
+![Example Kanban Board](https://media.geeksforgeeks.org/wp-content/uploads/20240208182152/Example-of-Kanban-Board.webp)
 
 Consider a software development Kanban Board with columns like:
 
