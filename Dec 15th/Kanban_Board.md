@@ -123,6 +123,7 @@ Different card colors represent different types of work. Swimlanes organize team
 ### Step 1: Visualize your workflow
 
 To create a Kanban Board, get a whiteboard, then break down the flow of work from the moment you start it to when it's finished into distinctive steps and draw a column for each.
+
 ![step1](https://static.kanbantool.com/kanban-board/kt-kanban-board-howto-1-visualize-workflow.png)
 
 ---
@@ -130,6 +131,7 @@ To create a Kanban Board, get a whiteboard, then break down the flow of work fro
 ### Step 2: Identify the types of work you do
 
 Decide what kinds of work items you are usually working on. These may be, for example, customer orders, support requests, or maintenance tasks. Assign a distinctive color to each of them, and get a bunch of sticky notes in these colors.
+
 ![Step2](https://static.kanbantool.com/kanban-board/kt-kanban-board-howto-2-identify-types-of-work.png)
 
 ---
@@ -137,6 +139,7 @@ Decide what kinds of work items you are usually working on. These may be, for ex
 ### Step 3: Write down tasks on cards and place them on the board
 
 Write down each thing you are working on on a separate color-coded sticky note, and put it onto the board into the respective column. The order of cards in each column should represent their relative priority, with the most urgent ones at the top.
+
 ![Step3](https://static.kanbantool.com/kanban-board/kt-kanban-board-howto-3-put-tasks-on-board.png)
 
 ---
