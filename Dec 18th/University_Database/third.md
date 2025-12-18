@@ -1,9 +1,16 @@
-SELECT FirstName, Email FROM Students;
+## Select Specific Columns
+
+```sql
+SELECT FirstName, Email 
+FROM Students;
 
 -- Filter
-SELECT * FROM Students
+SELECT * 
+FROM Students
 WHERE FirstName = 'Punam';
 
 -- Sort
-SELECT * FROM Students
+SELECT * 
+FROM Students
 ORDER BY DateOfBirth;
+```
