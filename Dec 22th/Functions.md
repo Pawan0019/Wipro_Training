@@ -1,3 +1,4 @@
+```sql
 CREATE DATABASE FunctionDemoDB;
 GO
 USE FunctionDemoDB;
@@ -43,3 +44,4 @@ SELECT Department, SUM(Salary) AS TotalSalary FROM Employees GROUP BY Department
 SELECT AVG(Salary) AS AvgSalary FROM Employees;
 
 SELECT MIN(Salary) AS MinimumSalary, MAX(Salary) AS MaximumSalary FROM Employees;
+```

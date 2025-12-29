@@ -1,3 +1,4 @@
+```sql
 CREATE DATABASE IndexDemoDB;
 USE IndexDemoDB;
 
@@ -19,3 +20,4 @@ INSERT INTO Employees VALUES
 ('Vikram', 'IT', 80000);
 
 SELECT * FROM Employees WHERE Department = 'IT';
+```

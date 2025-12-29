@@ -1,3 +1,4 @@
+```sql
 BEGIN TRANSACTION;
 
 INSERT INTO (EmployeeName, Salary) VALUES
@@ -21,3 +22,4 @@ UPDATE Employees SET Salary = Salary +5000 WHERE EmployeeName = 'Amit';
 DELETE FROM Employees WHERE EmployeeName = 'User1';
 
 COMMIT;
+```

@@ -1,3 +1,6 @@
+## --Case Study: https://drive.google.com/file/d/1tG8Symf9yzss2py7Pk4wrkCKBVSyKSMT/view
+
+```sql
 CREATE DATABASE OrderDB;
 GO
 USE OrderDB;
@@ -39,3 +42,4 @@ ON Orders(CustomerId);
 
 CREATE INDEX IDX_Orders_Amount
 ON Orders(OrderAmount);
+```
