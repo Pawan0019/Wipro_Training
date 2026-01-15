@@ -15,7 +15,7 @@ The repository primarily focuses on:
 ## 📂 Repository Structure
 
 All folders in this repository are **main folders**, each representing **training work for a specific date**.
-
+```
 Wipro_Training/
 │
 ├── Dec 11th/
@@ -40,7 +40,7 @@ Wipro_Training/
 ├── Jan 12th/
 ├── Jan 13th/
 └── README.md
-
+```
 ---
 
 Each date folder contains **either theory notes, assignments, diagrams, or C# source code** covered on that specific training day.
@@ -115,6 +115,7 @@ or directly run from your IDE.
 ---
 
 🎯 Purpose of This Repository
+
 - Track daily learning progress during Wipro training
 - Maintain organized notes and assignments
 - Practice real coding problems
@@ -124,13 +125,17 @@ or directly run from your IDE.
 ---
 
 📌 Project Status
+
 This repository is actively maintained as part of training work.
+
 More folders and programs may be added as training progresses.
 
 ---
 
 👤 Author
+
 Pawan Kumar Gupta
+
 Wipro Training Program Participant
 
 ---
@@ -138,4 +143,7 @@ Wipro Training Program Participant
 📄 License
 
 This repository is intended for educational and training purposes.
+
 No commercial use intended.
+
+---
