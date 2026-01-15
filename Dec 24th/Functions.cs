@@ -39,15 +39,37 @@ public class Program
         return 1;
         return n * Factorial(n-1);
     }
+
+    static string ReverseString(string str)
+    {
+        // base condition
+        if (str.Length == 0) return str;
+
+        // Recursive call
+        return ReverseString(str.Substring(1)) + str[0];
+
+    }
+
     
     public static void Main()
     {
         int result Add(10, 20);
         Console.WriteLine(result);
+
         Console.WriteLine(sum_all);
+
         int marks = ReadMarks();
         string grade = CalculateGrade(marks);
+
         DisplayResult(grade);
+
         Console.WriteLine(Factorial(5));
+
+        // Print reverse of string.
+        Console.WriteLine("Enter your name");
+        string name = Console.ReadLine();
+
+        string reversedName = ReverseString(name);
+        Console.WriteLine("Reversed name: " + reversedName);
     }
 }
