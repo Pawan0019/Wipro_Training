@@ -23,7 +23,6 @@ class DictionaryExercise2
             {104, "Pooja"},
             {105, "Karan"}
         };
-
         int searchId = 103;
         Console.WriteLine($"Student with ID {searchId}: {students[searchId]}\n");
     }

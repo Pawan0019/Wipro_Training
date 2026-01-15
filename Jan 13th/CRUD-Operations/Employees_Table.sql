@@ -1,0 +1,15 @@
+CREATE DATABASE ShopDB;
+GO
+USE ShopDB;
+GO
+
+CREATE TABLE Employees(
+    EmployeeId INT IDENTITY(1,1) PRIMARY KEY,
+	Name NVARCHAR(100),
+	Email NVARCHAR(100),
+	Phone NVARCHAR(15),
+	Department NVARCHAR(50),
+	Salary DECIMAL(10,2),
+	JoiningDate DATE,
+	IsActive BIT
+);
